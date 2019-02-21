@@ -10,8 +10,8 @@ class Factors
 	{
 		if(a%i==0)
 		{
-			System.out.println(i);
-			System.out.println(" ");
+			System.out.print(i);
+			System.out.print(" ");
 		}
 	}
   }
